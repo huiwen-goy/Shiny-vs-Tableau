@@ -2,7 +2,7 @@
 ![](UI.jpg)
 
 #### About this project ####
-The app displays Virginia Tech's 2023 bike helmet safety data ([original database](https://www.helmet.beam.vt.edu/bicycle-helmet-ratings.html)), with the added ability to filter by manufacturer, safety score, star rating, and cost. 
+The app displays Virginia Tech's 2022 bike helmet safety data, with the added ability to filter by manufacturer, safety score, star rating, and cost. 
 
 #### Running the app online ####
 The app runs online at this link:
