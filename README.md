@@ -12,3 +12,6 @@ The app runs online at this link:
 * Install R and R Studio, and R packages 'shiny', 'shinydashboard', 'DT', and 'shinyWidgets'.
 * Save the csv data file to the same directory as the app.R file.
 * In R Studio, set the working directory to the folder containing the app.R file. Open the app.R file. Click the "Run" button, or use the runApp() function.
+
+#### A basic guide to making an R Shiny app ####
+[https://huiwen-goy.github.io/shiny-bike-helmet/basic_guide_to_R_Shiny.pdf](https://huiwen-goy.github.io/shiny-bike-helmet/basic_guide_to_R_Shiny.pdf)
