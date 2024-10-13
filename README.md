@@ -1,17 +1,17 @@
-## R Shiny app for viewing bike helmet safety data ##
-![](UI.jpg)
+## R Shiny vs. Tableau ##
 
+  
 #### About this project ####
-The app displays Virginia Tech's 2022 bike helmet safety data, with the added ability to filter by manufacturer, safety score, star rating, and cost. 
+Virginia Tech provides publicly available data from their [bicycle helmet safety](https://www.helmet.beam.vt.edu/bicycle-helmet-ratings.html) studies. There's a search function for brands or models on their website, but it's difficult for a user to explore the available information, especially if their goal is to find a helmet that meets certain safety and cost criteria.  
 
-#### Running the app online ####
-The app runs online at this link:
-[https://huiwen-goy.shinyapps.io/project_shiny_bike/](https://huiwen-goy.shinyapps.io/project_shiny_bike/)
+#### R Shiny vs. Tableau ####
 
-#### Running the app on a local computer ####
-* Install R and R Studio, and R packages 'shiny', 'shinydashboard', 'DT', and 'shinyWidgets'.
-* Save the csv data file to the same directory as the app.R file.
-* In R Studio, set the working directory to the folder containing the app.R file. Open the app.R file. Click the "Run" button, or use the runApp() function.
+The R Shiny version: [https://huiwen-goy.shinyapps.io/project_shiny_bike/](https://huiwen-goy.shinyapps.io/project_shiny_bike/)  
+The Tableau version: [https://public.tableau.com/app/profile/hg8172/viz/Bike_helmet_safety/Dashboard_1](https://public.tableau.com/app/profile/hg8172/viz/Bike_helmet_safety/Dashboard_1)  
+
+Both the R Shiny and Tableau dashboards display Virginia Tech's 2022 edition of bike helmet safety data, with the added ability to filter by manufacturer, safety score, star rating, and cost.  
+
+Making an R Shiny dashboard requires some basic coding skills, while making a Tableau (public version) dashboard does not. R Shiny allows more customization of the aesthetics than Tableau (public). An R Shiny dashboard can run offline on a local computer, while a Tableau dashboard runs online only.     
 
 #### A basic guide to making an R Shiny app ####
-[https://huiwen-goy.github.io/shiny-bike-helmet/basic_guide_to_R_Shiny.pdf](https://huiwen-goy.github.io/shiny-bike-helmet/basic_guide_to_R_Shiny.pdf)
+This [guide]() describes the basic components of an R Shiny script, and contains an example of a simple R Shiny app that re-plots a display depending on how the inputs change and which additional display elements are selected.  
