@@ -1,6 +1,9 @@
 ## R Shiny vs. Tableau ##
-![](UI.jpg "R Shiny") ![](ableau_bike_dash.jpg "Tableau public")
-  
+<p float="middle">
+  <img src="/UI.jpg" width="30%" />
+  <img src="/Tableau_bike_dash.jpg" width="30%" /> 
+</p> 
+
 #### About this project ####
 Virginia Tech provides publicly available data from their [bicycle helmet safety](https://www.helmet.beam.vt.edu/bicycle-helmet-ratings.html) studies. There's a search function for brands or models on their website, but it's difficult for a user to explore the available information, especially if their goal is to find a helmet that meets certain safety and cost criteria.  
 
