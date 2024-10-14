@@ -16,5 +16,3 @@ Both the R Shiny and Tableau dashboards display Virginia Tech's 2022 edition of 
 
 Making an R Shiny dashboard requires some basic coding skills, while making a Tableau (public version) dashboard does not. R Shiny allows more customization of the layout and aesthetics than Tableau (public). An R Shiny dashboard can run offline on a local computer, while a Tableau dashboard runs online only.     
 
-#### A basic guide to making an R Shiny app ####
-This [guide](https://huiwen-goy.github.io/Shiny-vs-Tableau/basic_guide_to_R_Shiny.pdf) describes the basic components of an R Shiny script, and contains an example of a simple R Shiny app that re-plots a display depending on how the inputs change and which additional display elements are selected.  
